@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HandelAppBeta",
+    "\\HandelAppBeta\\HandelAppBeta",
+    "\\HandelAppBeta\\packages",
+    "\\HandelAppBeta\\VistaAdmin",
+    "\\HandelAppBeta\\VistaAdmin\\App_Start",
+    "\\HandelAppBeta\\VistaAdmin\\Views",
+    "\\HandelAppBeta\\VistaAdmin\\Views\\Home"
+  ],
+  "SelectedNode": "\\HandelAppBeta\\VistaAdmin\\App_Start\\BundleConfig.cs",
+  "PreviewInSolutionExplorer": false
+}
