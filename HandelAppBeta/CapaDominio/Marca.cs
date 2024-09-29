@@ -8,7 +8,7 @@ namespace CapaDominio
 {
     public class Marca
     {
-        public int ID { get; set; }
+        public int IDMarca { get; set; }
         public string Descripcion { get; set; }
 
         public override string ToString()

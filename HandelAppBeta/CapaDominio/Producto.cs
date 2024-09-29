@@ -10,8 +10,8 @@ namespace CapaDominio
     public class Producto
     {
            
-        [DisplayName("ID Producto")]
-        public int IdProducto { get; set; }
+        [DisplayName("IDMarca Producto")]
+        public int IDProducto { get; set; }
 
         [DisplayName("Código Producto")]
         public string Codigo { get; set; }
@@ -45,7 +45,7 @@ namespace CapaDominio
         public decimal PrecioFinal { get; set; }
 
 
-        public void CalcularPRecioVenta()
+        public void CalcularPrecioVenta()
         {
             PrecioVenta = PrecioCompra * (1 + (PorcentajeGanancia / 100));
         }
