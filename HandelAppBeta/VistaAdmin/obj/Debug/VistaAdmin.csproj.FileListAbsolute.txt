@@ -235,3 +235,9 @@ C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\Vista
 C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\VistaAdmin\obj\Debug\VistaAdmin.csproj.CopyComplete
 C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\VistaAdmin\obj\Debug\VistaAdmin.dll
 C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\VistaAdmin\obj\Debug\VistaAdmin.pdb
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\VistaAdmin\bin\CapaDominio.dll
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\VistaAdmin\bin\CapaNegocio.dll
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\VistaAdmin\bin\CapaDatos.dll
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\VistaAdmin\bin\CapaDominio.pdb
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\VistaAdmin\bin\CapaNegocio.pdb
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\VistaAdmin\bin\CapaDatos.pdb

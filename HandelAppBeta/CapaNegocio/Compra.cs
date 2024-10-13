@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using CapaDominio;
 
 namespace CapaNegocio
 {
@@ -27,5 +28,5 @@ namespace CapaNegocio
         [DisplayName("Proveedor")]
         public Proveedor Proveedor { get; set; }
     }
-}
+
 }

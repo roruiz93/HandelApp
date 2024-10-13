@@ -1,0 +1,9 @@
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaDatos\bin\Debug\CapaDominio.dll
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaDatos\bin\Debug\CapaDominio.pdb
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaDatos\obj\Debug\CapaDatos.pdb

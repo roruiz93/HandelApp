@@ -1,0 +1,6 @@
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaDominio\bin\Debug\CapaDominio.dll
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaDominio\bin\Debug\CapaDominio.pdb
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaDominio\obj\Debug\CapaDominio.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaDominio\obj\Debug\CapaDominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaDominio\obj\Debug\CapaDominio.dll
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaDominio\obj\Debug\CapaDominio.pdb

@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using CapaDominio;
+using CapaNegocio;
 
 namespace VistaAdmin.Controllers
 {
@@ -24,6 +26,15 @@ namespace VistaAdmin.Controllers
         public ActionResult Proveedores()
         {
             return View();
+        }
+
+        public JsonResult ListarUsuarios()
+        {
+            List<Usuario> listaUsuarios = new List<Usuario> ();
+
+            listaUsuarios = new CN_Usuarios().Listar();
+
+            return Json(listaUsuarios, JsonRequestBehavior.AllowGet); 
         }
     }
 }

@@ -1,0 +1,11 @@
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaNegocio\bin\Debug\CapaDominio.dll
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaNegocio\bin\Debug\CapaDominio.pdb
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Usuario\OneDrive\Escritorio\HandelApp MVC\HandelApp\HandelAppBeta\CapaNegocio\obj\Debug\CapaNegocio.pdb
